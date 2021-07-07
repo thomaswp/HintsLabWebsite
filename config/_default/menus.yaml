@@ -8,7 +8,7 @@ main:
     url: '#hints'
     weight: 10
   - name: People
-    url: 'authors'
+    url: '#people'
     weight: 20
   - name: Projects
     url: 'project'
@@ -19,6 +19,9 @@ main:
   - name: Talks
     url: '#talks'
     weight: 50
+  - name: Funding
+    url: 'funding'
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
