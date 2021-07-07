@@ -12,6 +12,7 @@ authors:
 - Tiffany Barnes
 tags:
 - Peer Reviewed Conference Paper (Full)
+- iSnap
 categories: []
 date: '2017-01-01'
 lastmod: 2021-07-07T11:40:01-04:00
