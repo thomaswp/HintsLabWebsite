@@ -37,6 +37,4 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+<big>See some of our most recent work or view [all publications here](./publication/).</big>

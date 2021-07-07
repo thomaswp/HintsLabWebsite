@@ -14,7 +14,6 @@ tags:
 - data-mining
 - learning analytics
 - logs
-- privacy
 - programming environments
 categories: []
 date: '2017-01-01'
