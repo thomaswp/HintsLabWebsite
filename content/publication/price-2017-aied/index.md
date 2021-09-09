@@ -16,11 +16,22 @@ tags:
 - intelligent tutoring systems
 - program-
 categories:
-- isnap
 date: '2017-01-01'
 lastmod: 2021-07-07T11:40:06-04:00
 featured: false
 draft: false
+
+# links:
+# - name: Custom Link
+#   url: http://example.org
+url_pdf: /papers/AIED 2017.pdf
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,7 +46,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+- isnap
 publishDate: '2021-07-07T15:40:05.714202Z'
 publication_types:
 - '1'
