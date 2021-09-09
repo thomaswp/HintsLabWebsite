@@ -1,10 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Examples"
-summary: ""
-authors: []
-tags: []
+title: "Example-based Feedback"
+summary: "Using examples to support students as they program."
+authors: 
+- Emma Wang
+- Thomas W. Price
+- Rui Zhi
+tags:
+- Computing Education
+- Block-based
+- Educational Data Mining
 categories: []
 date: 2021-07-07T16:46:48-04:00
 

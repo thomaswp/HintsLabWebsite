@@ -3,6 +3,8 @@ title: "iSnap: Data-driven Hints for Block-based Programming"
 summary: iSnap supports students automatically with hints, feedback and self-explanations.
 tags:
 - Computing Education
+- Educational Data Mining
+- Hints
 date: "2018-01-01T00:00:00Z"
 authors:
 - Thomas W. Price
@@ -102,7 +104,9 @@ iSnap offers a basic interface to navigate and view the logs it generates.
 
 <a name="datasets" class="anchor"></a>
 
-For all iSnap-related papers, see a [filtered list of publications](../../tag/isnap/).
+For all iSnap-related papers, see the list at the bottom of this page.
+
+The iSnap project has also produced public datasets, consisting of log data from students working in an introductory computing class, which can be found on the [PSLC Datashop](https://pslcdatashop.web.cmu.edu/Project?id=321).
 
 For more information on the data-driven algorithm that powers iSnap, see: 
 
@@ -116,5 +120,3 @@ For more information on iSnap and its initial pilot evaluation, see:
 * {{< cite page="/publication/price-2017" view="1" >}}
 * {{< cite page="/publication/price-2017-icer" view="4" >}}
 * {{< cite page="/publication/price-2017-aied" view="4" >}}
-
-The iSnap project has also produced public datasets, consisting of log data from students working in an introductory computing class, which can be found on the [PSLC Datashop](https://pslcdatashop.web.cmu.edu/Project?id=321).

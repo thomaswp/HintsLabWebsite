@@ -11,7 +11,7 @@ authors:
 - Gordon Fraser
 - Thomas W. Price
 tags:
-- Submitted Conference Papers Under Review
+- Peer Reviewed Conference Paper (Full)
 categories: []
 date: '2021-01-01'
 lastmod: 2021-07-07T11:39:20-04:00
@@ -31,8 +31,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-07-07T15:39:19.156187Z'
+projects:
+- dynamic
+- open-ended
+publishDate: '2021-09-09T19:06:23.732645Z'
 publication_types:
 - '1'
 abstract: ''

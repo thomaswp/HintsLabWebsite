@@ -9,6 +9,8 @@ superuser: false
 role: Ph.D. Candidate
 user_groups: ["Graduate Students"]
 
+weight: 1
+
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: North Carolina State University
@@ -57,4 +59,4 @@ social:
 highlight_name: true
 ---
 
-Samiha...
+Samiha is passionate about helping students learn how to code and improving students’ problem solving skills. Her research focus on exploring different design choices of automated feedback to improve students’ performance, learning, and affective outcomes like persistence and self-efficacy. Samiha’s current research includes adding additional types of support in iSnap block-based programming language, and PCRS (online practice environment for python programming language) using both expert-authored and data-driven feedback to improve students’ outcomes.

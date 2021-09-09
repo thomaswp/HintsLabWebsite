@@ -16,12 +16,15 @@ main:
   - name: Publications
     url: 'publication'
     weight: 40
-  - name: Talks
-    url: '#talks'
-    weight: 50
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 50
   - name: Funding
     url: 'funding'
     weight: 60
+  - name: Join
+    url: 'join'
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

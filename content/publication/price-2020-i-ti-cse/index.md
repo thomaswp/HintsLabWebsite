@@ -28,7 +28,8 @@ tags:
 - price
 - programming process data
 - thomas w
-categories: []
+categories:
+- csedm
 date: '2020-01-01'
 lastmod: 2021-07-07T11:39:35-04:00
 featured: false

@@ -18,7 +18,9 @@ tags:
 - hint quality
 - intelligent tutoring systems
 - programming
-categories: []
+categories:
+- isnap
+- hint-gen
 date: '2019-01-01'
 lastmod: 2021-07-07T11:39:42-04:00
 featured: false

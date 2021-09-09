@@ -15,7 +15,8 @@ tags:
 - hints
 - intelligent tutoring systems
 - program-
-categories: []
+categories:
+- isnap
 date: '2017-01-01'
 lastmod: 2021-07-07T11:40:06-04:00
 featured: false
