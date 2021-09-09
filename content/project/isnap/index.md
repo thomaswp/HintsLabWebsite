@@ -56,12 +56,12 @@ Using data collected from real students working on programming assignments, we a
 <!-- ![Snap checking an error](error-check.gif "caption") -->
 <img src="error-check.png" class="gif" alt="Snap checking an error"/>
 
-See an explanation of iSnap's help features below, or try them out yourself at the [iSnap demo](go.ncsu.edu/isnap). Select any assignment and test out the hints.
+See an explanation of iSnap's help features below, or try them out yourself at the [iSnap demo](https://go.ncsu.edu/isnap). Select any assignment and test out the hints.
 
 When a student needs help, they can ask iSnap to check their work. To start off, it shows two colors:
 
-*   Blocks that are highlighted in <span style="border: 2px solid #ff00ff; font-weight: bold">magenta</span> probably don't belong in a solution.
-*   Blocks that are highlighted in <span style="border: 2px solid #ffff00; font-weight: bold">yellow</span> probably do belong in the solution, but may not be in the right place.
+*   Blocks that are highlighted in <span style="border: 2px solid #ff00ff; padding:4px; font-weight: bold">magenta</span> probably don't belong in a solution.
+*   Blocks that are highlighted in <span style="border: 2px solid #ffff00; padding:4px; font-weight: bold">yellow</span> probably do belong in the solution, but may not be in the right place.
 
 Hovering over a yellow-highlighted block will show where it can be moved.
 
@@ -73,9 +73,15 @@ Clicking a button or highlighted input will show a next-step hint, comparing a s
 
 #### Previous Version of iSnap Hints
 
-The above demo shows off iSnap's newest hint interface, but much of the earlier research with iSnap used a simpler hint interface, based on the [Contextual Tree Decomposition (CTD)](http://www4.ncsu.edu/~twprice/website/files/EDM%202016.pdf) algorithm. See a demo of these hint in action by completing the [Guessing Game Part 1](snap-old.html?assignment=guess1Lab). The assignment asks you to create a guessing game, in which the computer stores a random number and then repeated asks the player to guess it, telling them if they are too high, too low or correct.
+The above demo shows off iSnap's newest hint interface, but much of the earlier research with iSnap used a simpler hint interface, based on the Contextual Tree Decomposition (CTD) algorithm. The assignment asks you to create a guessing game, in which the computer stores a random number and then repeated asks the player to guess it, telling them if they are too high, too low or correct.
+
+<img class="gif" src="ask-hint.png" height="150px">
 
 When a student is stuck, they can request a hint with the click of a button.
+
+<img class="gif" src="get-script-hint.png" height="200px">
+
+<img class="gif" src="get-block-hint.png" height="200px">
 
 Students can request hints about whole scripts or individual blocks.
 
@@ -83,11 +89,12 @@ Students can request hints about whole scripts or individual blocks.
 
 <a name="logging" class="anchor"></a>
 
-iSnap logs all actions taken by students in the environment, as well as snapshots of students' code as they work. Logs can be saved to a database for future analysis, review or grading. To get a quick overview of the programs that have been created on this demo site, check out the [viewer page](logging/view/).  
+iSnap logs all actions taken by students in the environment, as well as snapshots of students' code as they work. Logs can be saved to a database for future analysis, review or grading.
+
 
 **Note**: this is a demo site and does not include actual student data.
 
-![](demo/logging.png)
+<img src="logging.png">
 
 iSnap offers a basic interface to navigate and view the logs it generates.
 
