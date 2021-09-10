@@ -24,14 +24,13 @@ draft: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: /papers/AIED 2017.pdf
-# url_code: '#'
-# url_dataset: '#'
-# url_poster: '#'
-# url_project: ''
-# url_slides: ''
-# url_source: '#'
-# url_video: '#'
+url_pdf: /papers/PriceAIED2017.pdf
+# url_code: https://github.com/XXX
+url_dataset: https://pslcdatashop.web.cmu.edu/Project?id=321
+# url_poster: /posters/AIED2017.pdf
+url_slides: https://docs.google.com/presentation/d/1tg5lrZsoUZRXKa1gEwOqs-DViOId1tTPgGu_mBujsMU/pub?start=false&loop=false&delayms=60000&slide=id.g1f8282b3f5_0_5
+# url_video: https://youtube.com/XXX
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
