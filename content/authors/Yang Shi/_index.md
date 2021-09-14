@@ -17,36 +17,38 @@ organizations:
   url: https://www.ncsu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yang...
+bio: Mining Educational data to help teachers and students.
 
 # Interests to show in About widget
 interests:
 - Computing Education Research
+- Educational Data Mining
+- Machine Learning
 
 # Education to show in About widget
 education:
   courses:
   - course: M.S. in Computer Science
-    institution: 
-    year: 
-  - course: B.S. in Computer Science
-    institution: 
-    year: 
+    institution: University of Georgia
+    year: 2017
+  - course: B.Eng. in Automation
+    institution: Central South University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
+- icon: globe
   icon_pack: fas
-  link: 
+  link: http://yshi.info
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: 
-- icon: github
-  icon_pack: fab
-  link: 
+  link: https://scholar.google.com/citations?user=w9nxvo4AAAAJ&hl=en
+#- icon: github
+#  icon_pack: fab
+#  link: 
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
@@ -59,4 +61,4 @@ social:
 highlight_name: true
 ---
 
-Yang Shi is a PhD student of Computer Science at North Carolina State University. He completed his master degree in Computer Science at University of Georgia. Yang is interested in developing data-driven methods to improve student and programmer code representations to enhance the intelligent learning environment and student models. He is currently working on projects about extracting features of programmer code snippets and the applications of the extracted features.
+Yang Shi is a PhD student at North Carolina State University. He has been working towards building data-driven methods for representing program code to enhance the ability of Intelligent Tutoring Systems and benefit student modeling process. With a focus of DM/ML approaches applied to CS education, his research interests also include Programming Language Processing, Software Analysis and Deep Learning.
