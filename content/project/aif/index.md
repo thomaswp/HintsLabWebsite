@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Automated, Immediate Feedback (AIF) for Novice Programmings"
-summary: "Automatically providing real-time, positive and corrective feedback for novices as they program."
+title: "Adaptive, Immediate Feedback (AIF) for Novice Programmings"
+summary: "Automatically providing real-time, formative feedback, that is specific, immediate, positive and corrective, for novices as they program in Snap! block-based programming environment."
 authors: 
 - Samiha Marwan
 - Thomas W. Price
