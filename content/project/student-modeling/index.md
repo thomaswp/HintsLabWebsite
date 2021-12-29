@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "ML for Student Code"
+title: "Automatic Student Code Modeling and Analysis"
 summary: "Using Machine Learning to classify student code and predict outcomes."
 authors: 
-- Yang Shi
-- Emma Wang
-- Thomas W. Price
+- [Yang Shi](yshi.info)
+- [Emma Wang](emmableu.github.io/)
+- [Thomas W. Price](go.ncsu.edu/twprice)
 tags:
 - Machine Learning
 - Computing Education
@@ -20,7 +20,7 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
+image:featured.png
   caption: ""
   focal_point: ""
   preview_only: false
@@ -48,81 +48,28 @@ slides: ""
 
 # Overview
 
-[Snap](http://snap.berkeley.edu) is an online, bock-based programming environment designed by researchers at UC Berkeley to make programming more accessible to novices. iSnap augments the environment with intelligent features including logging and data-driven hints.
+Student modeling in HintsLab is a project led by [Yang Shi](yshi.info), across different domains mainly including machine learning assisted automatic student code analysis. The applications are mainly student bug detection, analysis, and knowlegdge tracing. We also host CSEDM data challenge under the bracket of this project.
 
-iSnap is a project out of the HINTS lab in collaboartion with the [Game2Learn](http://eliza.csc.ncsu.edu) lab at North Carolina State University, with lead development by [Thomas Price](go.ncsu.edu/twprice). A public mirror of iSnap is available on [GitHub](https://github.com/thomaswp/iSnap), but it may be behind the development branch demoed here until features are ready for release.
+### Student Bug Detection
 
-The iSnap project has also produced various papers and public datasets, which can be found [below](#datasets).
+<img src="xxx.png" alt="Bug clusters"/>
 
-The construction of a Snap program and the corresponding evaluation.
+### Student Progress Prediction
 
-### Data-driven Hints
-
-<a name="hints" class="anchor"></a>
-
-Using data collected from real students working on programming assignments, we are able to generate on-demand, next-step hints for students who get stuck on these assignments. The _SourceCheck_ algorithm matches students' code to previously observed code from students who successfully completed the assignment and recommends an edit based on how those students progressed.
-
-<img src="error-check.png" class="gif" alt="Snap checking an error"/>
-
-See an explanation of iSnap's help features below, or try them out yourself at the [iSnap demo](https://go.ncsu.edu/isnap). Select any assignment and test out the hints.
-
-When a student needs help, they can ask iSnap to check their work. To start off, it shows two colors:
-
-*   Blocks that are highlighted in <span style="border: 2px solid #ff00ff; padding:4px; font-weight: bold">magenta</span> probably don't belong in a solution.
-*   Blocks that are highlighted in <span style="border: 2px solid #ffff00; padding:4px; font-weight: bold">yellow</span> probably do belong in the solution, but may not be in the right place.
-
-Hovering over a yellow-highlighted block will show where it can be moved.
-
-If a student requests a next-step hint, iSnap also adds:
-
-*   Blue <span style="color: blue; font-weight: bold; border: solid blue 2px; padding: 0 5px">+</span> buttons and input outlines <span style="border: 2px solid blue; padding: 0 5px"> </span> indicating where new blocks can be inserted
-
-Clicking a button or highlighted input will show a next-step hint, comparing a student's current code to iSnap's suggested code. If the suggestion is followed, the button or input outline disappears, indicating the student has successfully followed the hint.
-
-#### Previous Version of iSnap Hints
-
-The above demo shows off iSnap's newest hint interface, but much of the earlier research with iSnap used a simpler hint interface, based on the Contextual Tree Decomposition (CTD) algorithm. The assignment asks you to create a guessing game, in which the computer stores a random number and then repeated asks the player to guess it, telling them if they are too high, too low or correct.
-
-<img class="gif" src="ask-hint.png" height="150px">
-
-When a student is stuck, they can request a hint with the click of a button.
-
-<img class="gif" src="get-script-hint.png" height="200px">
-
-<img class="gif" src="get-block-hint.png" height="200px">
-
-Students can request hints about whole scripts or individual blocks.
-
-### Logging
-
-<a name="logging" class="anchor"></a>
-
-iSnap logs all actions taken by students in the environment, as well as snapshots of students' code as they work. Logs can be saved to a database for future analysis, review or grading.
-
-
-**Note**: this is a demo site and does not include actual student data.
-
-<img src="logging.png">
-
-iSnap offers a basic interface to navigate and view the logs it generates.
+### Knowledge Tracing
 
 ### Papers and Datasets
 
 <a name="datasets" class="anchor"></a>
 
-For all iSnap-related papers, see the list at the bottom of this page.
+For all related papers, see the list at the bottom of this page.
 
-The iSnap project has also produced public datasets, consisting of log data from students working in an introductory computing class, which can be found on the [PSLC Datashop](https://pslcdatashop.web.cmu.edu/Project?id=321).
+The dataset access of the 2021 CSEDM data challenge can be found on [CSEDM data challenge website](https://sites.google.com/ncsu.edu/csedm-dc-2021/home).
 
 For more information on the data-driven algorithm that powers iSnap, see: 
 
 * {{< cite page="/publication/price-2017-edm" view="4" >}}
-* {{< cite page="/publication/price-2019-ijaied" view="4" >}}
-* {{< cite page="/publication/price-2018-aied" view="4" >}}
-* {{< cite page="/publication/price-2016" view="4" >}}
 
-For more information on iSnap and its initial pilot evaluation, see: 
+For more information on Knowledge Tracing, see: 
 
 * {{< cite page="/publication/price-2017" view="1" >}}
-* {{< cite page="/publication/price-2017-icer" view="4" >}}
-* {{< cite page="/publication/price-2017-aied" view="4" >}}
