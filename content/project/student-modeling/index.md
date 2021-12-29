@@ -48,7 +48,7 @@ slides: ""
 
 # Overview
 
-Student modeling in HintsLab is a project led by [Yang Shi](yshi.info), across different domains mainly including machine learning assisted automatic student code analysis. The applications are mainly student bug detection, analysis, and knowlegdge tracing. We also host CSEDM data challenge under the bracket of this project.
+Student modeling in HintsLab is a project led by [Yang Shi](http://yshi.info), across different domains mainly including machine learning assisted automatic student code analysis. The applications are mainly student bug detection, analysis, and knowlegdge tracing. We also host CSEDM data challenge under the bracket of this project.
 
 ### Student Bug Detection
 
