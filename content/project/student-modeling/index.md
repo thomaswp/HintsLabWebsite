@@ -4,9 +4,9 @@
 title: "Automatic Student Code Modeling and Analysis"
 summary: "Using Machine Learning to classify student code and predict outcomes."
 authors: 
-- [Yang Shi](yshi.info)
-- [Emma Wang](emmableu.github.io/)
-- [Thomas W. Price](go.ncsu.edu/twprice)
+- Yang Shi
+- Emma Wang
+- Thomas W. Price
 tags:
 - Machine Learning
 - Computing Education
