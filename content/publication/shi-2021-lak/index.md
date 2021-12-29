@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- prediction
+- student-modeling
 publishDate: '2021-07-07T15:39:23.797170Z'
 publication_types:
 - '1'
