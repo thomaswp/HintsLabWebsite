@@ -5,7 +5,6 @@ title: "Automatic Student Code Modeling and Analysis"
 summary: "Using Machine Learning to classify student code, detect bugs by students, and model student progress."
 authors: 
 - Yang Shi
-- Emma Wang
 - Thomas W. Price
 tags:
 - Machine Learning
