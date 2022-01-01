@@ -62,13 +62,19 @@ With each point represents a two-dimensional latent embedding from a student cod
 
 <img src="detected-clusters.png" alt="Detected bug clusters."/>
 
-When bug information from a similar dataset is available, we are able to perform more precise detections on the bugs. We further leverage an another deep learning model, ASTNN, and use semi-supervised learning to improve the performance of the bug detection task, showing that with the help of semi-supervised strategy, deep learning models are able to perform better in the detection tasks for three types of common student bugs.
+When bug information from a similar dataset is available, we are able to perform more precise detections on the bugs. We further leverage an another deep learning model, ASTNN, and use semi-supervised learning to improve the performance of the bug detection task, showing that with the help of semi-supervised strategy, deep learning models are able to perform better in the detection tasks for three types of common student bugs. The comparison of the solid lines (semi-supervised strategy) and the dashed lines (supervised strategy) shows that extra unlabeled data would enable the improvement, although the current accuracy is not yet ready for classrooms when available labeled data is limited.
 
 <img src="detection-performance.png" alt="Detection performance comparison graphs."/>
 
 ### Student Progress Prediction
 
+One key to the success of hinting students is to see when/if a hint, or interference is needed. We predict the progress of students using the already written code with machine learning tools, to check if students will struggle in a future similar task. This research is on-going now.
+
 ### Knowledge Tracing
+
+Tracking students' knowledge on certain areas have been one major topic for student modeling. There are models such as Deep knowledge tracing (DKT, [see original paper](https://stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf)), while it has not been specifically designed for computer science classes. With student code available for tracing, combining this information in would help a more accurate tracing.
+
+Our experiment gives an attempt on applying DKT and simple feature extraction methods such as TF-IDF to student code in the knowledge tracing task. The experiment shows that the features from code improve the performance.
 
 ### Papers and Datasets
 
