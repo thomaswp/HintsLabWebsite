@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Automatic Student Code Modeling and Analysis"
-summary: "Using Machine Learning to classify student code and predict outcomes."
+summary: "Using Machine Learning to classify student code, detect bugs by students, and model student progress."
 authors: 
 - Yang Shi
 - Emma Wang
@@ -48,11 +48,23 @@ slides: ""
 
 # Overview
 
-Student modeling in HintsLab is a project led by [Yang Shi](http://yshi.info), across different domains mainly including machine learning assisted automatic student code analysis. The applications are mainly student bug detection, analysis, and knowlegdge tracing. We also host CSEDM data challenge under the bracket of this project.
+Student modeling in HintsLab is a project led by [Yang Shi](http://yshi.info/), across different domains mainly including machine learning assisted automatic student code analysis. We leverage state-of-the-art machine learning and deep learning technologies to analyze student prgramming traces, to fulfill various educational applications, including student bug detection, analysis, and knowlegdge tracing.
 
 ### Student Bug Detection
 
-<img src="xxx.png" alt="Bug clusters"/>
+Through the code submissions by students, with out prior knowledge of the typical bugs from students, we are able to autmatically discover similar patterns of errors, using the clustered latent embeddings of a trained code2vec neural network (see [code2vec page](https://code2vec.org/)).
+
+We use the student programming data from a relatively complicated project in an introductory student programming course. The network uses correctness of the code submissions as the label, and achieved a relatively higher auto-grading performance than other machine learning methods such as support vector machine and neural networks. 
+
+<img src="autograding-performance.png" alt="Autograding performance comparison chart."/>
+
+With each point represents a two-dimensional latent embedding from a student code submission, the detected clusters are colored differently to show different error types. In this image below, we have brown-colored code submissions misusing not required code blocks, green-colored submissions lacking a knowledge of loop, and orange-colored submissions missing defined variables.
+
+<img src="detected-clusters.png" alt="Detected bug clusters."/>
+
+When bug information from a similar dataset is available, we are able to perform more precise detections on the bugs. We further leverage an another deep learning model, ASTNN, and use semi-supervised learning to improve the performance of the bug detection task, showing that with the help of semi-supervised strategy, deep learning models are able to perform better in the detection tasks for three types of common student bugs.
+
+<img src="detection-performance.png" alt="Detection performance comparison graphs."/>
 
 ### Student Progress Prediction
 
@@ -66,10 +78,11 @@ For all related papers, see the list at the bottom of this page.
 
 The dataset access of the 2021 CSEDM data challenge can be found on [CSEDM data challenge website](https://sites.google.com/ncsu.edu/csedm-dc-2021/home).
 
-For more information on the data-driven algorithm that powers iSnap, see: 
+For more information on student bug detection and analysis, see: 
 
-* {{< cite page="/publication/price-2017-edm" view="4" >}}
+* {{< cite page="/publication/shi-2021-lak" view="4" >}}
+* {{< cite page="/publication/shi-2021-edm" view="4" >}}
 
 For more information on Knowledge Tracing, see: 
 
-* {{< cite page="/publication/price-2017" view="1" >}}
+* {{< cite page="/publication/penmetsa-2021-csedm" view="4" >}}
