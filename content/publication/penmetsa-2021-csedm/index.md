@@ -1,29 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Toward Semi-Automatic Misconception Discovery Using Code Embeddings
+title: Identifying Struggling Students in Novice Programming Course with Knowledge Tracing
 subtitle: ''
 summary: ''
 authors:
-- Yang Shi
-- Krupal Shah
-- Wengran Wang
-- Samiha Marwan
 - Poorvaja Penmetsa
+- Yang Shi
 - Thomas W. Price
 tags:
-- Automatic Assessment
-- Code Analysis
-- Learning Representation
-- Neural Network
-- Peer Reviewed Conference Paper (Short)
-- automatic assessment
-- code analysis
-- learning
-- neural network
+- Peer Reviewed Workshop Paper
 categories: []
 date: '2021-01-01'
-lastmod: 2021-07-07T11:39:24-04:00
+lastmod: 2021-07-07T11:39:36-04:00
 featured: false
 draft: false
 
@@ -42,11 +31,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects:
 - student-modeling
-publishDate: '2021-07-07T15:39:23.797170Z'
+publishDate: '2021-07-07T15:39:35.241008Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 11th International Learning Analytics and Knowledge
-  Conference (LAK21)*'
-doi: 10.1145/3448139.3448205
+publication: "*Proceedings of the 5th Workshop on Educational Data Mining in Computer\
+  \ Science Education (CSEDM) at EDM'21*"
 ---

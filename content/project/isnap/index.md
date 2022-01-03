@@ -50,12 +50,8 @@ The construction of a Snap program and the corresponding evaluation.
 
 <a name="hints" class="anchor"></a>
 
-<!-- {{< youtube ztpKZPxEX7c >}} -->
-
-
 Using data collected from real students working on programming assignments, we are able to generate on-demand, next-step hints for students who get stuck on these assignments. The _SourceCheck_ algorithm matches students' code to previously observed code from students who successfully completed the assignment and recommends an edit based on how those students progressed.
 
-<!-- ![Snap checking an error](error-check.gif "caption") -->
 <img src="error-check.png" class="gif" alt="Snap checking an error"/>
 
 See an explanation of iSnap's help features below, or try them out yourself at the [iSnap demo](https://go.ncsu.edu/isnap). Select any assignment and test out the hints.
