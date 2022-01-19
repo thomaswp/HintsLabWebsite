@@ -18,6 +18,11 @@ lastmod: 2021-07-07T11:39:27-04:00
 featured: false
 draft: false
 
+# links:
+# - name: Custom Link
+url_pdf: https://emmableu.github.io/publications/wang2020crescendo.pdf
+url_slides: https://docs.google.com/presentation/d/e/2PACX-1vQI4q3m6oc1sQgVXlHmGf00RIgM-pkuKqXQ7taHf7Y_kQEP_jYv0BFD_10vMdkS765CeLC3l8PdX9Cg/pub?start=false&loop=false&delayms=60000
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -36,6 +41,6 @@ projects:
 publishDate: '2021-07-07T15:39:26.975421Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*Proceedings of the ACM Technical Symposium on Computer Science Education*'
+abstract: 'This paper introduces Crescendo, a self-paced programming practice environment that combines the block-based and visual, interactive programming of Snap, with the structured practices commonly found in Drill-and-Practice Environments. Crescendo supports students with Parsons problems to reduce problem complexity, Use-Modify-Create task progressions to gradually introduce new programming concepts, and automated feedback and assessment to support learning. In this work, we report on our experience deploying Crescendo in a programming camp for middle school students, as well as in an introductory university course for non-majors. Our initial results from field observations and log data suggest that the support features in Crescendo kept students engaged and allowed them to progress through programming concepts quickly. However, some students still struggled even with these highly-structured problems, requiring additional assistance, suggesting that even strong scaffolding may be insufficient to allow students to progress independently through the tasks.'
+publication: '*Proceedings of the ACM Technical Symposium on Computer Science Education*(31.4% acceptance rate; 171/544 papers.)'
 ---

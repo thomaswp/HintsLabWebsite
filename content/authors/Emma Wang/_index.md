@@ -26,27 +26,25 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: M.S. in Computer Science
-    institution: 
-    year: 
-  - course: B.S. in Computer Science
-    institution: 
-    year: 
+  - course: M.S. in Statistics
+    institution: NC State University
+    year: 2018
+  - course: B.S. in Environmental Science
+    institution: Zhejiang University, Hangzhou, China 
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
+- icon: globe
   icon_pack: fas
-  link: 
+  link: https://emmableu.github.io/
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: 
-- icon: github
-  icon_pack: fab
-  link: 
+  link: https://scholar.google.com/citations?user=OEWd96cAAAAJ&hl=en
+
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
