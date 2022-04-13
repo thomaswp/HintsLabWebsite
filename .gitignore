@@ -10,3 +10,4 @@ hugo.exe
 reset.exe.stackdump
 go.sum
 .hugo_build.lock
+.DS_Store
