@@ -21,6 +21,7 @@ date: '2020-01-01'
 lastmod: 2021-07-07T11:39:26-04:00
 featured: false
 draft: false
+url_pdf: /papers/MarwanICER2020.pdf
 
 # links:
 # - name: Custom Link
