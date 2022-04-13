@@ -55,15 +55,15 @@ Through the code submissions by students, with out prior knowledge of the typica
 
 We use the student programming data from a relatively complicated project in an introductory student programming course. The network uses correctness of the code submissions as the label, and achieved a relatively higher auto-grading performance than other machine learning methods such as support vector machine and neural networks. 
 
-<img src="autograding-performance.png" alt="Autograding performance comparison chart."/>
+![Autograding performance comparison chart.](autograding-performance.png)
 
 With each point represents a two-dimensional latent embedding from a student code submission, the detected clusters are colored differently to show different error types. In this image below, we have brown-colored code submissions misusing not required code blocks, green-colored submissions lacking a knowledge of loop, and orange-colored submissions missing defined variables.
 
-<img src="detected-clusters.png" alt="Detected bug clusters."/>
+![Detected bug clusters.](detected-clusters.png)
 
 When bug information from a similar dataset is available, we are able to perform more precise detections on the bugs. We further leverage an another deep learning model, ASTNN, and use semi-supervised learning to improve the performance of the bug detection task, showing that with the help of semi-supervised strategy, deep learning models are able to perform better in the detection tasks for three types of common student bugs. The comparison of the solid lines (semi-supervised strategy) and the dashed lines (supervised strategy) shows that extra unlabeled data would enable the improvement, although the current accuracy is not yet ready for classrooms when available labeled data is limited.
 
-<img src="detection-performance.png" alt="Detection performance comparison graphs."/>
+![Detection performance comparison graphs.](detection-performance.png)
 
 ### Student Progress Prediction
 
