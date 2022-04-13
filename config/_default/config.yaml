@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: HINTS Lab # Website name
-baseurl: 'https://hints.csc.ncsu.edu/' # Website URL
+baseurl: 'https://hints.csc.ncsu.edu/home/public' # Website URL
 copyright: '© {year} Thomas W. Price' # Footer text, e.g. '© {year} Me'
 
 ############################
