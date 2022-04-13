@@ -14,6 +14,7 @@ date: '2021-01-01'
 lastmod: 2022-04-13T12:35:36-04:00
 featured: false
 draft: false
+url_pdf: /papers/MarwanThesis.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

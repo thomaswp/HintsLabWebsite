@@ -16,6 +16,7 @@ date: '2021-01-01'
 lastmod: 2021-07-07T11:39:22-04:00
 featured: false
 draft: false
+url_pdf: /papers/GaoSIGCSE2021.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
