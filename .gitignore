@@ -2,9 +2,11 @@
 .idea/
 
 # Hugo
-/resources/
+resources/
 public/
 jsconfig.json
 node_modules/
 hugo.exe
 reset.exe.stackdump
+go.sum
+.hugo_build.lock
