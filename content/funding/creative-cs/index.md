@@ -42,9 +42,9 @@ url_video: ""
 **Award #**: 1917885
 
 **Related Projects** (see for relevant findings and publications):
-* [Support for Open-ended Programming Projects](/project/open-ended)
-* [Example-based feedback](/project/examples)
-* [Assessment through Dynamic Analysis](/project/dynamic)
+* [Support for Open-ended Programming Projects](../../project/open-ended)
+* [Example-based feedback](../../project/examples)
+* [Assessment through Dynamic Analysis](../../project/dynamic)
 
 **Abstract**: Introductory computing curricula increasingly motivate students with creative, open-ended projects, such as making apps, games, and simulations. Advanced Placement (AP) exam results from the Computer Science Principles exam indicate that students need more support in solving open-ended problems. Current research on automated help systems can provide hints but cannot provide much information at higher abstraction levels. This project will provide technologies to support novices in open-ended program design and construction. The longer-term promise of this research is that it can be extended beyond novices' learning of computational thinking skills to a wider range of learning tasks to better prepare the workforce of the future. Additionally, the research contributes to computer science research by using novel data-driven technologies to identify the higher-level advice provided to the students.
 
