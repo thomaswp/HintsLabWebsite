@@ -56,7 +56,7 @@ social:
 #  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
@@ -69,8 +69,13 @@ social:
 highlight_name: true
 ---
 
-Thomas W. Price is an Assistant Professor in the Computer Science Department at North Carolina State University, where he runs the HINTS Lab. He is also a part of NCSU's Center for Educational Informatics.
+Thomas W. Price is an Assistant Professor in the Computer Science Department at North Carolina State University, where he runs the [HINTS Lab](../../). He is also a part of NCSU's Center for Educational Informatics.
 
 Thomas' research goal is to re-imagine educational programming environments as adaptive, data-driven systems that support students automatically as they pursue learning goals that are meaningful to them. His work has focused on the domain of computing education, where he has developed techniques for automatically generating programming hints and feedback for students in real-time by leveraging student data. His HINTS lab focuses on supporting students working in creative, open-ended and block-based learning contexts, leading to novel data-driven programming support, including adaptive examples, subgoal feedback, and models to predict student outcomes.
+
+To learn more about me, check out:
+* [The HINTS lab team](../../#people)
+* [Our projects](../../project/)
+* [Our publications](../../publication/)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv/Thomas Price.pdf" "newtab" >}}CV{{< /staticref >}}.
