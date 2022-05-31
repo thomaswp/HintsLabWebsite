@@ -15,11 +15,12 @@ authors:
 tags:
 - Peer Reviewed Conference Paper (Full)
 categories: []
-date: '2021-01-01'
-lastmod: 2021-07-07T11:39:21-04:00
+date: '2022-01-01'
+lastmod: 2022-07-07T11:39:21-04:00
 featured: false
 draft: false
 url_pdf: https://emmableu.github.io/publications/wang2022exploring.pdf
+url_slides: https://docs.google.com/presentation/d/e/2PACX-1vTXX1BoqrYvJ3RpzAv6K6JT33AA5UOkoYJtVUNjSl6778I7oIkywmf2RcOIK_6JSDOfH27A4ydiE6lv/pub?start=false&loop=false&delayms=3000
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
