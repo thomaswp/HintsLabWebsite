@@ -46,13 +46,16 @@ social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=w9nxvo4AAAAJ&hl=en
-#- icon: github
-#  icon_pack: fab
-#  link: 
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/YangAzure
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yang-shi-3bbb1bb4/
 
+- icon: cv
+  icon_pack: ai
+  link: uploads/cv/Yang Shi.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
