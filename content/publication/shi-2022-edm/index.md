@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'MCode-DKT: A Code-based Knowledge Tracing Model for Programming Tasks.'
+title: 'Code-DKT: A Code-based Knowledge Tracing Model for Programming Tasks.'
 subtitle: ''
 summary: ''
 authors:
