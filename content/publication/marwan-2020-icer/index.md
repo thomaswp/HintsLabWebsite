@@ -21,12 +21,12 @@ date: '2020-01-01'
 lastmod: 2021-07-07T11:39:26-04:00
 featured: false
 draft: false
-url_pdf: /papers/MarwanICER2020.pdf
+url_pdf: papers/MarwanICER2020.pdf
 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-#url_pdf: /papers/MarwanICER2020.pdf
+#url_pdf: papers/MarwanICER2020.pdf
 #url_slides: https://docs.google.com/presentation/d/e/2PACX-1vTvzYDCA-8UrbiQwYh_Cx5xhyWk8LBvg-9X0pKyUtyg1kgTLBpkBwsx77Z0kdVW1Q/pub?start=false&loop=false&delayms=5000&slide=id.p36
  #url_video: https://www.youtube.com/watch?v=cWfKTfcArWU
 

@@ -20,7 +20,7 @@ date: '2021-01-01'
 lastmod: 2021-07-07T11:39:21-04:00
 featured: false
 draft: false
-url_pdf: /papers/WangITiCSE2021Examples.pdf
+url_pdf: papers/WangITiCSE2021Examples.pdf
 url_slides: https://docs.google.com/presentation/d/e/2PACX-1vS_MSKM70XdArBxirf7o900fGZEu69bwBSOBFqDuXPI6AHPDNwyFUxF9nMPjlBl5jrQNxHloMDgEunx/pub?start=false&loop=false&delayms=3000
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

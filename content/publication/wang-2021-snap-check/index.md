@@ -17,7 +17,7 @@ date: '2021-01-01'
 lastmod: 2021-07-07T11:39:20-04:00
 featured: false
 draft: false
-url_pdf: /papers/WangITiCSE2021SnapCheck.pdf
+url_pdf: papers/WangITiCSE2021SnapCheck.pdf
 url_slides: https://docs.google.com/presentation/d/e/2PACX-1vR5qGAVKMrnXZkT5B_Bx28Acv5i5TbrScWRtLla1xF-irVKtyRIXEW3yy_i7vL-Diz1f1ZNJNq8kr9a/pub?start=false&loop=false&delayms=3000
 
 # Featured image

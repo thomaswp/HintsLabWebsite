@@ -18,7 +18,7 @@ date: '2021-06-01'
 lastmod: 2021-07-07T11:39:51-04:00
 featured: false
 draft: false
-url_pdf: /papers/MarwanEDM2021.pdf
+url_pdf: papers/MarwanEDM2021.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -15,7 +15,7 @@ date: '2022-01-01'
 lastmod: 2022-09-09T15:05:30-04:00
 featured: false
 draft: false
-url_pdf: /papers/ShiEDM2022Code.pdf
+url_pdf: papers/ShiEDM2022Code.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

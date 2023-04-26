@@ -19,7 +19,7 @@ featured: false
 draft: false
 
 url_slides: https://docs.google.com/presentation/d/e/2PACX-1vQp1WwfRaW9Ufx39GKvntqlhbNNZafkAEagSv35SuT8d_fqvpA5o_Q6XPXJCIVhZfcTN2-2LQWEMj0c/pub?start=false&loop=false&delayms=3000
-url_pdf: /papers/WangCSEDM2021.pdf
+url_pdf: papers/WangCSEDM2021.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

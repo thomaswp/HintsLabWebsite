@@ -24,7 +24,7 @@ draft: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: /papers/PriceAIED2017.pdf
+url_pdf: papers/PriceAIED2017.pdf
 url_code: https://github.com/thomaswp/iSnap
 url_dataset: https://pslcdatashop.web.cmu.edu/Project?id=321
 # url_poster: /posters/AIED2017.pdf

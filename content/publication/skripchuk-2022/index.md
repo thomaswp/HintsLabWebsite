@@ -21,7 +21,7 @@ date: '2022-01-01'
 lastmod: 2022-04-13T12:42:30-04:00
 featured: false
 draft: false
-url_pdf: /papers/SkripchukSIGCSE2022.pdf
+url_pdf: papers/SkripchukSIGCSE2022.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
