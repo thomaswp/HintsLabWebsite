@@ -5,11 +5,11 @@ title: Emma Wang
 # Is this the primary user of the site?
 superuser: false
 
-weight: 2
+weight: 1
 
 # Role/position/tagline
-role: Ph.D. Student
-user_groups: ["Graduate Students"]
+role: Machine Learning Engineer, Apple
+user_groups: ["Alumni"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -17,7 +17,7 @@ organizations:
   url: https://www.ncsu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Emma...
+bio: Emma is a HINTS Lab Alum who's research focuses on supporting students working on open-ended programming projects.
 
 # Interests to show in About widget
 interests:
@@ -26,11 +26,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Ph.D. in Computer Science
+    institution: North Carolina State University
+    year: 2023
   - course: M.S. in Statistics
     institution: NC State University
     year: 2018
   - course: B.S. in Environmental Science
-    institution: Zhejiang University, Hangzhou, China 
+    institution: Zhejiang University, Hangzhou, China
     year: 2016
 
 # Social/Academic Networking
