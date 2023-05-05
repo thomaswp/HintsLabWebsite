@@ -8,7 +8,7 @@ superuser: false
 weight: 3
 
 # Role/position/tagline
-role: Ph.D. Student
+role: Ph.D. Candidate
 user_groups: ["Graduate Students"]
 
 # Organizations/Affiliations to show in About widget
@@ -64,4 +64,4 @@ social:
 highlight_name: true
 ---
 
-Yang Shi is a PhD student at North Carolina State University. He has been working towards building data-driven methods for representing program code to enhance the ability of Intelligent Tutoring Systems and benefit student modeling process. With a focus of DM/ML approaches applied to CS education, his research interests also include Programming Language Processing, Software Analysis and Deep Learning.
+Yang Shi is a Ph.D. Candidate and Goodnight Doctoral Fellow at North Carolina State University. He has been working towards building data-driven methods to enhance the ability of Intelligent Tutoring Systems and benefit student modeling processes. With a focus on the computing education discipline, his research interests also include Cognitive Science, Software Engineering, and Machine Learning. He has been serving as a co-organizer in CSEDM 20-23 workshops and a program committee (PC) member in conferences across multiple disciplines including EDM, LAK, KDD, AAAI, EAAI, SIGCSE, and ITICSE.
