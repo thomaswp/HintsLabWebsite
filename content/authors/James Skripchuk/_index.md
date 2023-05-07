@@ -47,7 +47,7 @@ social:
   link: https://github.com/jskripchuk
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/yang-shi-3bbb1bb4/
+  link: https://www.linkedin.com/in/jskripchuk/
 - icon: cv
   icon_pack: ai
   link: uploads/cv/James Skripchuk.pdf
