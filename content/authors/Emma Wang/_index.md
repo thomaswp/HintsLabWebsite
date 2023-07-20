@@ -5,6 +5,10 @@ title: Emma Wang
 # Is this the primary user of the site?
 superuser: false
 
+authors:
+- Emma Wang
+- Wengran (Emma) Wang
+
 weight: 1
 
 # Role/position/tagline

@@ -2,6 +2,9 @@
 title: HINTS Lab Members
 cms_exclude: true
 
+authors:
+- Yang Shi
+
 # View.
 #   1 = List
 #   2 = Compact

@@ -5,6 +5,10 @@ title: James Skripchuk
 # Is this the primary user of the site?
 superuser: false
 
+authors:
+- James Skripchuk
+- Jimmy Skripchuk
+
 weight: 4
 
 # Role/position/tagline
@@ -27,11 +31,11 @@ interests:
 education:
   courses:
   - course: M.S. in Computer Science
-    institution: 
-    year: 
+    institution:
+    year:
   - course: B.S. in Computer Science
-    institution: 
-    year: 
+    institution:
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,13 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 
+  link:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: 
+  link:
 - icon: github
   icon_pack: fab
-  link: 
+  link:
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/

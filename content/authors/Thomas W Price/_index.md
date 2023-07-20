@@ -2,6 +2,14 @@
 # Display name
 title: Thomas W. Price
 
+first_name: Thomas
+last_name: Price
+
+authors:
+  - Thomas W Price
+  - Thomas W. Price
+  - Thomas Price
+
 # Is this the primary user of the site?
 superuser: true
 
