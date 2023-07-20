@@ -8,7 +8,7 @@ authors:
 - Yang Shi
 - Min Chi
 - Tiffany Barnes
-- Thomas W Price
+- Thomas W. Price
 tags: []
 categories: []
 date: '2022-01-01'

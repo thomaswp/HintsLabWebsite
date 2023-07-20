@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Bita Akram
-- Thomas W Price
+- Thomas W. Price
 - Yang Shi
 - Peter Brusilovsky
 - Sharon I Han Hsiao

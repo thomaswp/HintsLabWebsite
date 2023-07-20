@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Guojing Zhou
 - Collin F Lynch
-- Thomas W Price
+- Thomas W. Price
 - Tiffany Barnes
 - Min Chi
 tags:

@@ -10,7 +10,7 @@ authors:
 - Ye Mao
 - Tiffany Barnes
 - Min Chi
-- Thomas W Price
+- Thomas W. Price
 tags: []
 categories: []
 date: '2021-01-01'

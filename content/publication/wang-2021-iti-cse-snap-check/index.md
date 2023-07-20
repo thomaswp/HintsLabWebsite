@@ -9,7 +9,7 @@ authors:
 - Chenhao Zhang
 - Andreas Stahlbauer
 - Gordon Fraser
-- Thomas Price
+- Thomas W. Price
 tags:
 - Peer Reviewed Conference Paper (Full)
 categories: []

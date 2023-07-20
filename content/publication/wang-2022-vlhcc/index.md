@@ -13,7 +13,7 @@ authors:
 - Tiffany Barnes
 - Chris Martens
 - Shuyin Jiao
-- Thomas Price
+- Thomas W. Price
 tags: []
 categories: []
 date: '2022-01-01'

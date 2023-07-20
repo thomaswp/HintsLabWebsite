@@ -6,8 +6,7 @@ title: Emma Wang
 superuser: false
 
 authors:
-- Emma Wang
-- Wengran (Emma) Wang
+- Wengran Wang
 
 weight: 1
 

@@ -6,9 +6,7 @@ first_name: Thomas
 last_name: Price
 
 authors:
-  - Thomas W Price
-  - Thomas W. Price
-  - Thomas Price
+- Thomas W. Price
 
 # Is this the primary user of the site?
 superuser: true

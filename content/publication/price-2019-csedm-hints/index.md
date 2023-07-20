@@ -5,7 +5,7 @@ title: A Comparison of Two Designs for Automated Programming Hints
 subtitle: ''
 summary: ''
 authors:
-- Thomas W Price
+- Thomas W. Price
 - Joseph Jay Williams
 - Samiha Marwan
 tags:

@@ -5,7 +5,7 @@
 
 title: Academic # Website name
 baseurl: 'https://academic-demo.netlify.app/' # Website URL
-copyright: '© {year} Thomas Price' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Thomas W. Price' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

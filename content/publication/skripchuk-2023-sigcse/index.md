@@ -9,7 +9,7 @@ authors:
 - Neil Bennett
 - Jeffery Zheng
 - Eric Li
-- Thomas W Price
+- Thomas W. Price
 tags: []
 categories: []
 date: '2023-01-01'

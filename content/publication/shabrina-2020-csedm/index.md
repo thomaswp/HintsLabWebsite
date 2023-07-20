@@ -10,7 +10,7 @@ authors:
 - Samiha Marwan
 - Min Chi
 - Tiffany Barnes
-- Thomas W Price
+- Thomas W. Price
 tags:
 - Peer Reviewed Workshop Paper
 - adaptive feedback

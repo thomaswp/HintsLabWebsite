@@ -10,7 +10,7 @@ authors:
 - Susan Fisk
 - Spencer Yoder
 - Cynthia Hunt
-- Thomas Price
+- Thomas W. Price
 - Lina Battestilli
 - Tiffany Barnes
 tags: []

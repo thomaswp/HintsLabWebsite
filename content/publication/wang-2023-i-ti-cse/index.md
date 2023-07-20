@@ -16,7 +16,7 @@ authors:
 - Amy Isvik
 - Tiffany Barnes
 - Chris Martens
-- Thomas Price
+- Thomas W. Price
 tags: []
 categories: []
 date: '2023-01-01'

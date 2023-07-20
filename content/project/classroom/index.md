@@ -3,9 +3,9 @@
 
 title: "Classroom Impact"
 summary: "Studies evaluating the impact of our interventions in authentic classrooms."
-authors: 
+authors:
 - Yang Shi
-- Emma Wang
+- Wengran Wang
 - Thomas W. Price
 tags:
 - Computing Education

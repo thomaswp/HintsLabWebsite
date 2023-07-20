@@ -5,6 +5,9 @@ title: Yang Shi
 # Is this the primary user of the site?
 superuser: false
 
+authors:
+- Yang Shi
+
 weight: 3
 
 # Role/position/tagline

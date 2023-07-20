@@ -3,9 +3,9 @@
 
 title: "ML for Student Code"
 summary: "Using Machine Learning to classify student code and predict outcomes."
-authors: 
+authors:
 - Yang Shi
-- Emma Wang
+- Wengran Wang
 - Thomas W. Price
 tags:
 - Machine Learning

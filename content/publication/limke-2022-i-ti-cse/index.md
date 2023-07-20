@@ -10,7 +10,7 @@ authors:
 - Veronica Cateté
 - Isabella Gransbury
 - Amy Isvik
-- Thomas Price
+- Thomas W. Price
 - Chris Martens
 - Tiffany Barnes
 tags: []

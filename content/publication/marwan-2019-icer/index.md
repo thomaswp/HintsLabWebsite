@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Samiha Marwan
 - Joseph Jay Williams
-- Thomas Price
+- Thomas W. Price
 tags:
 - Peer Reviewed Conference Paper (Full)
 categories: []

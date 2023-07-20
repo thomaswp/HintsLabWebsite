@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Samiha Marwan
 - Anay Dombe
-- Thomas Price
+- Thomas W. Price
 tags:
 - Peer Reviewed Conference Paper (Full)
 categories: []
