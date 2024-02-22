@@ -5,7 +5,7 @@ title: An Evaluation of Data-driven Programming Hints in a Classroom Setting
 subtitle: ''
 summary: ''
 authors:
-- Thomas W Price
+- Thomas W. Price
 - Samiha Marwan
 - Michael Winters
 - Joseph Jay Williams

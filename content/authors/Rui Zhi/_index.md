@@ -5,6 +5,9 @@ title: Rui Zhi
 # Is this the primary user of the site?
 superuser: false
 
+authors:
+- Rui Zhi
+
 # Role/position/tagline
 role: Software Engineer
 user_groups: ["Alumni"]
@@ -12,7 +15,7 @@ user_groups: ["Alumni"]
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Facebook
-  url: 
+  url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Rui is a HINTS Lab alum and a Software Engineer at Facebook.

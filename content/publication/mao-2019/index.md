@@ -9,7 +9,7 @@ authors:
 - Ye Mao
 - Rui Zhi
 - Farzaneh Khoshnevisan
-- Thomas W Price
+- Thomas W. Price
 - Tiffany Barnes
 - Min Chi
 tags:

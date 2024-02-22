@@ -9,7 +9,7 @@ authors:
 - David Azcona
 - Yancy Vance Paredes
 - Sharon I Han Hsiao
-- Thomas W Price
+- Thomas W. Price
 tags:
 - Edited Proceedings
 - Edited Workshop Proceedings

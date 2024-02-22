@@ -8,7 +8,7 @@ authors:
 - Rui Zhi
 - Min Chi
 - Tiffany Barnes
-- Thomas W Price
+- Thomas W. Price
 tags:
 - Peer Reviewed Conference Paper (Full)
 categories: []

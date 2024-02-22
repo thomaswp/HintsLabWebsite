@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Ye Mao
 - Farzaneh Khoshnevisan
-- Thomas Price
+- Thomas W. Price
 - Tiffany Barnes
 - Min Chi
 tags: []

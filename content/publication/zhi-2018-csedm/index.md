@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Rui Zhi
-- Thomas W Price
+- Thomas W. Price
 - Nicholas Lytle
 - Tiffany Barnes
 tags:

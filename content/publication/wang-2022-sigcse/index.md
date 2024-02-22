@@ -6,12 +6,12 @@ subtitle: ''
 summary: ''
 authors:
 - Wengran Wang
-- Audrey Le Meur 
+- Audrey Le Meur
 - Mahesh Bobbadi
 - Bita Akram
 - Tiffany Barnes
 - Chris Martens
-- Thomas Price
+- Thomas W. Price
 tags:
 - Peer Reviewed Conference Paper (Full)
 categories: []

@@ -9,7 +9,7 @@ authors:
 - Alexander Card
 - Wengran Wang
 - Chris Martens
-- Thomas Price
+- Thomas W. Price
 tags:
 - Peer Reviewed Conference Paper (Short)
 categories: []

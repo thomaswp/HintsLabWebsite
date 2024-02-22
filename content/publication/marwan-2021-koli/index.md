@@ -10,7 +10,7 @@ authors:
 - Alex Milliken
 - Ian Menezes
 - Veronica Catete
-- Thomas W Price
+- Thomas W. Price
 - Tiffany Barnes
 tags:
 - Peer Reviewed Conference Paper (Full)

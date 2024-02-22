@@ -9,7 +9,7 @@ authors:
 - Samiha Marwan
 - Yihuan Dong
 - Nicholas Lytle
-- Thomas W Price
+- Thomas W. Price
 - Tiffany Barnes
 tags:
 - Peer Reviewed Conference Paper (Full)

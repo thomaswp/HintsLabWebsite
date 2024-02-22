@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Rogelio E Cardona-Rivera
-- Thomas W Price
+- Thomas W. Price
 - David R Winer
 - R. Michael Young
 tags:

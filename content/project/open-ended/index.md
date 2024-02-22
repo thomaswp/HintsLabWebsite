@@ -3,8 +3,8 @@
 
 title: "Open-ended Programming Projects"
 summary: "Automated tools to help students plan and implement creative, open-ended programming projects."
-authors: 
-- Emma Wang
+authors:
+- Wengran Wang
 - Thomas W. Price
 tags:
 - Block-based
@@ -50,19 +50,19 @@ slides: ""
 Open-ended programming engages students by connecting computing with their real-world experience and personal interest. However, such open-ended programming tasks can be challenging, as they require students to implement features that they may be unfamiliar with. We explore different ways to support students making creative, open-ended programming projects.
 
 ## Code Examples
-### Example Helper 
+### Example Helper
 #### The Prototype Version
 ![Example Helper v1](wang2021novices.png)
-We first developed a prototype of the "Example Helper" system to help students learn through examples how to make open-ended projects. The Example Helper allows students to browse a curated set of code examples, represented as short animations (gifs).  When students select a code example, they can view the code for the example, next to their own project code. They are prompted to write a self-explanation and copy the example code to their own code by dragging it directly to their own code. 
+We first developed a prototype of the "Example Helper" system to help students learn through examples how to make open-ended projects. The Example Helper allows students to browse a curated set of code examples, represented as short animations (gifs).  When students select a code example, they can view the code for the example, next to their own project code. They are prompted to write a self-explanation and copy the example code to their own code by dragging it directly to their own code.
 
 #### Novices' Learning Barriers When Using Code Examples
 We deployed the prototype interface to CS0 course students in the Fall 2020 semester, when students were working on the open-ended programming project during the second month of the course. The goal of the study was to identify students’ learning barriers when using code examples during open-ended programming.  We found the following 3 types of learning barriers students encounter:
 
 -   Decision barriers. Students can be reluctant to open the example gallery to request help, even when they are stuck in implementing a certain feature.
 -   Search barrier: when students try to search for examples they need when programming, they may not know how to express the exact example behavior they want to view.
--   Integration barrier: When students try to use an example in their own code, they may encounter difficulties to integrate the examples into their own context. We found that 4 different low-level difficulties caused students to encounter the integration barrier: 
+-   Integration barrier: When students try to use an example in their own code, they may encounter difficulties to integrate the examples into their own context. We found that 4 different low-level difficulties caused students to encounter the integration barrier:
 	-   Understanding barrier: difficulties to understand an unfamiliar code block;
-	-   Mapping barrier: difficulties to map a property in an example code to a property in their own code;    
+	-   Mapping barrier: difficulties to map a property in an example code to a property in their own code;
 	-   Testing barrier: difficulties to test an example immediately when viewing it;
 	-   Modification barrier: difficulties to modify an example to use it in their own project.
 

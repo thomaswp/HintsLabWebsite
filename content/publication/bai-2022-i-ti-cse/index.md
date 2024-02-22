@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Gina R Bai
 - Kai Presler-Marshall
-- Thomas W Price
+- Thomas W. Price
 - Kathryn T Stolee
 tags: []
 categories: []

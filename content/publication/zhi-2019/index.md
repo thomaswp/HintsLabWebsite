@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Rui Zhi
-- Thomas W Price
+- Thomas W. Price
 - Samiha Marwan
 - Alexandra Milliken
 - Tiffany Barnes

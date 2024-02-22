@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Benjamin Paaßen
 - Barbara Hammer
-- Thomas W Price
+- Thomas W. Price
 - Tiffany Barnes
 - Sebastian Gross
 - Niels Pinkwart

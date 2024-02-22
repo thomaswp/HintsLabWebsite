@@ -5,7 +5,7 @@ title: A Comparison of the Quality of Data-driven Programming Hint Generation Al
 subtitle: ''
 summary: ''
 authors:
-- Thomas W Price
+- Thomas W. Price
 - Yihuan Dong
 - Rui Zhi
 - Benjamin Paaßen

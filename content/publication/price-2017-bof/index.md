@@ -5,7 +5,7 @@ title: Sharing and Using Programming Log Data
 subtitle: ''
 summary: ''
 authors:
-- Thomas W Price
+- Thomas W. Price
 - Neil C C Brown
 - Chris Piech
 - Kelly Rivers

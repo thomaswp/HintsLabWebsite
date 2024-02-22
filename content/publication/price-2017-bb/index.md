@@ -6,7 +6,7 @@ title: 'Position Paper: Block-based Programming Should Offer Intelligent Support
 subtitle: ''
 summary: ''
 authors:
-- Thomas W Price
+- Thomas W. Price
 - Tiffany Barnes
 tags:
 - Peer Reviewed Workshop Paper

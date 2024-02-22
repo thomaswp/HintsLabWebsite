@@ -9,7 +9,7 @@ authors:
 - Heidi Reichert
 - Ally Limke
 - Benyamin T Tabarsi
-- Thomas Price
+- Thomas W. Price
 - Chris Martens
 - Tiffany Barnes
 tags: []

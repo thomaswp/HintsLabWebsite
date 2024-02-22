@@ -5,7 +5,7 @@ title: 'ProgSnap2: A Flexible Format for Programming Process Data'
 subtitle: ''
 summary: ''
 authors:
-- Thomas W Price
+- Thomas W. Price
 - David Hovemeyer
 - Kelly Rivers
 - Austin Cory Bart

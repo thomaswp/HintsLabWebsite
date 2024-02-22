@@ -8,7 +8,7 @@ authors:
 - Nicholas Lytle
 - Jennifer Echavarria
 - Joshua Sosa
-- Thomas W Price
+- Thomas W. Price
 tags: []
 categories: []
 date: '2019-01-01'

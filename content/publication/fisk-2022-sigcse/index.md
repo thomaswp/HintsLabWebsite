@@ -10,7 +10,7 @@ authors:
 - Lina Battestilli
 - Bita Akram
 - Tiffany Barnes
-- Thomas Price
+- Thomas W. Price
 - Spencer Yoder
 tags: []
 categories: []

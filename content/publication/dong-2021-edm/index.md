@@ -9,7 +9,7 @@ authors:
 - Yihuan Dong
 - Samiha Marwan
 - Preya Shabrina
-- Thomas Price
+- Thomas W. Price
 - Tiffany Barnes
 tags:
 - Peer Reviewed Conference Paper (Short)

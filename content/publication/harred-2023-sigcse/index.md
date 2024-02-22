@@ -8,7 +8,7 @@ authors:
 - Rachel Harred
 - Tiffany Barnes
 - Susan Fisk
-- Thomas W Price
+- Thomas W. Price
 - Spencer Yoder
 tags: []
 categories: []

@@ -5,7 +5,7 @@ title: Automated, Personalized Examples to Support Creative, Open-Ended Programm
 subtitle: ''
 summary: ''
 authors:
-- Emma Wang
+- Wengran Wang
 tags:
 - Ph.D. Theses Supervised
 categories: []

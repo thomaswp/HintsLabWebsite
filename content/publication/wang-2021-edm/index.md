@@ -9,7 +9,7 @@ authors:
 - Gordon Fraser
 - Tiffany Barnes
 - Chris Martens
-- Thomas Price
+- Thomas W. Price
 tags:
 - Peer Reviewed Poster/Abstract
 categories: []

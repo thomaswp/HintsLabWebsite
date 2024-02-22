@@ -9,7 +9,7 @@ authors:
 - Samiha Marwan
 - Veronica Catete
 - Tiffany Barnes
-- Thomas Price
+- Thomas W. Price
 tags:
 - Peer Reviewed Conference Paper (Full)
 - acm reference format

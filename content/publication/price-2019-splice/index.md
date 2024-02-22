@@ -5,7 +5,7 @@ title: 'Lightning Talk: Curating Analyses for Programming Log Data'
 subtitle: ''
 summary: ''
 authors:
-- Thomas W Price
+- Thomas W. Price
 - Ge Gao
 tags:
 - Peer Reviewed Workshop Paper

@@ -33,11 +33,13 @@ The Help through INTelligent Support (HINTS) Lab, directed by Dr. Thomas Price, 
 
 <img src="home/HINTS.png" style="float: left; width: calc(max(250px, 25%)); margin-right: 5em; margin-bottom: 2em">
 
-* Generating data-driven programming help, such as hints and worked examples
-* Developing standards for benchmarking the quality of data-driven support
-* Evaluating the impact of programming support in classroom and lab studies
-* Understanding how programmers seek and use help from computers and humans
-* Enhancing block-based and novice programming environments that enable creative computation
+* Supporting students to design and implement on open-ended programming projects.
+* Generating data-driven programming help, such as hints and worked examples.
+* Developing machine learning models to better understand student code and predict learning outcomes.
+* Understanding how programmers seek and use help from web-based help, AI systems, and humans.
+* Evaluating the impact of programming support in classroom and lab studies.
+<!-- * Developing standards for benchmarking the quality of data-driven support -->
+<!-- * Enhancing block-based and novice programming environments that enable creative computation -->
 
 For more about our research, see this video:
 <div style="width: 50%; margin-left:auto; margin-right: auto">

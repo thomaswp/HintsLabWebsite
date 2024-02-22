@@ -5,7 +5,7 @@ title: Exploring Design Choices in Data-driven Hints for Python Programming Home
 subtitle: ''
 summary: ''
 authors:
-- Thomas W Price
+- Thomas W. Price
 - Samiha Marwan
 - Joseph Jay Williams
 tags:

@@ -10,7 +10,7 @@ authors:
 - Ally Limke
 - Heidi Reichert
 - Rachel Qualls
-- Thomas Price
+- Thomas W. Price
 - Chris Martens
 - Tiffany Barnes
 tags: []

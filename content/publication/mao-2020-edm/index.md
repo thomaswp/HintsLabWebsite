@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Ye Mao
 - Samiha Marwan
-- Thomas W Price
+- Thomas W. Price
 - Tiffany Barnes
 - Min Chi
 tags:

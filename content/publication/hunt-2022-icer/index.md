@@ -9,7 +9,7 @@ authors:
 - Cynthia Hunt
 - Spencer Yoder
 - Taylor Comment
-- Thomas Price
+- Thomas W. Price
 - Bita Akram
 - Lina Battestilli
 - Tiffany Barnes

@@ -8,7 +8,7 @@ date: "2019-07-17T00:00:00Z"
 # - Thomas W. Price
 authors:
 - Thomas W. Price
-- Emma Wang
+- Wengran Wang
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

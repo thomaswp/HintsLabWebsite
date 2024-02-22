@@ -9,7 +9,7 @@ authors:
 - Rui Zhi
 - Alexandra Milliken
 - Nicholas Lytle
-- Thomas W Price
+- Thomas W. Price
 tags:
 - Peer Reviewed Conference Paper (Full)
 categories: []
